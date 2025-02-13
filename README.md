@@ -56,4 +56,11 @@ This Jupyter Notebook processes and visualizes Virtual Machine (VM) allocation a
 - Adjust visualization parameters as needed for better insights.
 
 ## Documentation
-- https://pygsheets.readthedocs.io/en/stable/authorization.html#oauth-credentials
+- [Pygsheets Documentation](https://pygsheets.readthedocs.io/en/stable/authorization.html)
+- [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
+- [Project Jupyter Official Website](https://jupyter.org/)
+- [IPython and Jupyter Guide](https://ipython.readthedocs.io/en/stable/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html/)
+
+
