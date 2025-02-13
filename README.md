@@ -54,3 +54,6 @@ This Jupyter Notebook processes and visualizes Virtual Machine (VM) allocation a
 - Ensure dependencies are installed before running the notebook.
 - The dataset is preprocessed to handle missing or incorrect values.
 - Adjust visualization parameters as needed for better insights.
+
+## Documentation
+- https://pygsheets.readthedocs.io/en/stable/authorization.html#oauth-credentials
